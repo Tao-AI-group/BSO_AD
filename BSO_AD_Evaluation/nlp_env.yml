@@ -221,4 +221,3 @@ dependencies:
       - transformers==4.55.2
       - triton==3.4.0
       - xlrd==2.0.2
-prefix: /infodev1/non-phi-projects/avanti/anaconda/envs/nlp_env
