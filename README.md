@@ -12,7 +12,7 @@ The construction of BSO-AD followed established ontology engineering principles,
 
 The ontology development framework is illustrated below.
 
-<img src="figures/BSO-AD_Development_Framework.jpeg">
+<img src="Figures/BSO-AD_Development_Framework.jpeg">
 
 
 ## Ontology Evaluation
@@ -30,7 +30,7 @@ The LLM-assisted ontology evaluation framework incorporated embedding-based sema
 
 The evaluation workflow combined literature-derived concept extraction, ontology-guided concept aggregation, and embedding-based semantic consistency analysis.
 
-<img src="figures/BSO_AD_LLM_Evaluation_pipeline.jpeg">
+<img src="Figures/BSO_AD_LLM_Evaluation_pipeline.jpeg">
 
 ## Citation
 
